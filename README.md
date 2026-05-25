@@ -1,6 +1,6 @@
 # 🍛 Spice Garden AI Chatbot
 
-An AI-powered chatbot for **Spice Garden Restaurant, Hyderabad** — built with **Flask** and **Groq API**. Answers questions about the menu, timings, location, and handles reservations instantly.
+An AI-powered chatbot for **Spice Garden Restaurant, Hyderabad** — built with **Flask** and **Groq API**. Answers questions about the menu, timings, location, and handles reservations instantly. it is live @ http://https://steve161208.pythonanywhere.com/
 
 ---
 
